@@ -1,0 +1,22 @@
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\SimpleAPI Projet C#.exe
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\SimpleAPI Projet C#.deps.json
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\SimpleAPI Projet C#.runtimeconfig.json
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\SimpleAPI Projet C#.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\SimpleAPI Projet C#.pdb
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.csproj.AssemblyReference.cache
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.AssemblyInfoInputs.cache
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.AssemblyInfo.cs
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.csproj.CoreCompileInputs.cache
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.csproj.CopyComplete
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\refint\SimpleAPI Projet C#.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.pdb
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\SimpleAPI Projet C#.genruntimeconfig.cache
+C:\Users\azert\source\repos\SimpleAPI Projet C#\obj\Debug\net8.0\ref\SimpleAPI Projet C#.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\System.Data.SQLite.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\azert\source\repos\SimpleAPI Projet C#\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
